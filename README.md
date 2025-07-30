@@ -23,12 +23,6 @@ A sleek, modern, and fully responsive UI clone of Nike’s landing page built us
 
 ---
 
-## 📸 Screenshots
-
-<img src="public/preview-1.png" alt="Hero Section" width="100%"/>
-<img src="public/preview-2.png" alt="Product Grid" width="100%"/>
-
----
 
 ## 📂 Folder Structure
 
