@@ -1,12 +1,45 @@
-# React + Vite
+# 🏀 Nike UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern, and fully responsive UI clone of Nike’s landing page built using **React**, **Tailwind CSS**, and **Framer Motion**. This project serves as a frontend design and layout practice inspired by Nike's visual aesthetics.
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Hero section with bold typography and call-to-action
+- 🎞️ Product cards with hover transitions
+- 🧩 Modular React components
+- 🎨 Utility-first Tailwind CSS styling
+- 📱 Fully responsive on all screen sizes
+- 🎬 Smooth animations with Framer Motion
+- 🧼 Clean and scalable code structure
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+
+---
+
+## 📸 Screenshots
+
+<img src="public/preview-1.png" alt="Hero Section" width="100%"/>
+<img src="public/preview-2.png" alt="Product Grid" width="100%"/>
+
+---
+
+## 📂 Folder Structure
+
+```bash
+├── public/
+│   └── assets/           # Images & logos
+├── src/
+│   ├── components/       # Reusable UI components
+│   ├── sections/         # Hero, Products, Footer etc.
+│   ├── App.jsx
+│   └── main.jsx
+├── tailwind.config.js
+├── index.html
+└── package.json
